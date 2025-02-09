@@ -1,3 +1,4 @@
+// src/pages/Dashboard.jsx
 import React from 'react';
 import { Routes, Route, Link, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../contexts/AuthContext';

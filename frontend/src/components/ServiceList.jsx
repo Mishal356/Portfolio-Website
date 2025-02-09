@@ -1,3 +1,4 @@
+// src/components/ServiceList.jsx
 import React from 'react';
 
 function ServiceList({ services }) {
